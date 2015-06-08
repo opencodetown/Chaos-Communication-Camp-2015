@@ -1,4 +1,4 @@
-# rubytown at Chaos Communication Camp 2015 !
+# Opencodetown at Chaos Communication Camp 2015 !
 ###Save the date! CCC Camp in germany 13th - 17th August 2015 #ccc15
 
 After a great 31C3 Assembly we would like to bring the awesomeness of the Ruby community to the Camp.
