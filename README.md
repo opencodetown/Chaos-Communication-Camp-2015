@@ -1,5 +1,5 @@
 # OpenCodeTown at Chaos Communication Camp 2015 !
-###CCC Camp in Germany 13th - 17th August 2015 #ccc15 [Order your ticket](https://tickets.events.ccc.de/)
+### [Order your ticket](https://tickets.events.ccc.de/) CCC Camp in Germany 13th - 17th August 2015 #ccc15
 
 
 
