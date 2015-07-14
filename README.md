@@ -1,6 +1,8 @@
 # OpenCodeTown at Chaos Communication Camp 2015 !
 ### [Order your ticket](https://tickets.events.ccc.de/) CCC Camp in Germany 13th - 17th August 2015 #ccc15
 
+[![Join the chat at https://gitter.im/opencodetown/Chaos-Communication-Camp-2015](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/opencodetown/Chaos-Communication-Camp-2015?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 
 * Our [Wiki Page](http://events.ccc.de/camp/2015/wiki/Village:OpenCodeTown) on the CCCamp Wiki
